@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carne Machaca "DOÑA TINY" - Venta en Línea</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header {
+            background-color: #8B0000;
+            color: white;
+            padding: 15px;
+            font-size: 24px;
+        }
+        .container {
+            padding: 20px;
+        }
+        .producto {
+            border: 1px solid #ddd;
+            padding: 15px;
+            margin: 15px;
+            display: inline-block;
+            width: 300px;
+        }
+        button {
+            background-color: #8B0000;
+            color: white;
+            padding: 10px;
+            border: none;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <header>Carne Machaca "DOÑA TINY"</header>
+    <div class="container">
+        <div class="producto">
+            <h2>Carne Machaca Sonorense</h2>
+            <p>500g - Calidad garantizada</p>
+            <p><strong>$500 MXN</strong></p>
+            <button>Comprar Ahora</button>
+        </div>
+        <div class="producto">
+            <h2>Carne Machaca Tradicional</h2>
+            <p>1kg - Sabor auténtico</p>
+            <p><strong>$1000 MXN</strong></p>
+            <button>Comprar Ahora</button>
+        </div>
+    </div>
+</body>
+</html>
